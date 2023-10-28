@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.a42bfd43.css",
+    "main.js": "/MyPortfolio/static/js/main.8ec2a6d1.js",
+    "static/media/frontpage1.jpg": "/MyPortfolio/static/media/frontpage1.ab0bd2aa3240e2295dad.jpg",
+    "static/media/cybersecuritsolutions.jpg": "/MyPortfolio/static/media/cybersecuritsolutions.5ae61bcbf17b4b4b0261.jpg",
+    "static/media/4564475.jpg": "/MyPortfolio/static/media/4564475.5f28a7987c5c473538c1.jpg",
+    "static/media/appd.png": "/MyPortfolio/static/media/appd.496eecf3fc956f0a3e54.png",
+    "static/media/webd.jpg": "/MyPortfolio/static/media/webd.b312e507be78bda1c635.jpg",
+    "static/media/ecommercesolution.webp": "/MyPortfolio/static/media/ecommercesolution.bc8ce5f9c493759f3489.webp",
+    "index.html": "/MyPortfolio/index.html",
+    "main.a42bfd43.css.map": "/MyPortfolio/static/css/main.a42bfd43.css.map",
+    "main.8ec2a6d1.js.map": "/MyPortfolio/static/js/main.8ec2a6d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a42bfd43.css",
+    "static/js/main.8ec2a6d1.js"
+  ]
+}
