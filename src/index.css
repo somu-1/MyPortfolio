@@ -1,13 +1,50 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+  @import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@500&family=Dancing+Script:wght@500&family=Noto+Sans:wght@200&family=Poppins&family=Ysabeau&display=swap');
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+  * {
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .navbar a:hover {
+    color: rgb(29, 29, 203);
+  }
+
+  .active {
+    font-weight: bold;
+    border-bottom: 2px solid red;
+  }
+
+  .brand-name {
+    color: rgb(53, 105, 226);
+  }
+
+  .animate {
+    animation: slide 2s linear infinite;
+  }
+
+  @keyframes slide {
+    0% {
+      transform: translateY(0px);
+    }
+
+    25% {
+      transform: translateY(-10px);
+    }
+    50%{
+      transform: translateY(-20px); 
+    }
+    75%{
+      transform: translateY(-10px); 
+    }
+    100%{
+      transform: translateY(0px);
+    }
+  }
+
+  .height_100cls{
+    height: 90vh;
+  }
+  .btn-custom{
+    width: 150px;
+    padding: 10px 0px;
+    border-radius: 40px;
+  }
